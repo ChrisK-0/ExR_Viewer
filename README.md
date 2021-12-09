@@ -10,5 +10,5 @@ Hamburger menu help: [Gaurav on dev.to](https://dev.to/devggaurav/let-s-build-a-
 Javascript fetch API tutorial: [JavaScript Tutorial Website](https://www.javascripttutorial.net/javascript-fetch-api/)
 Rounding decimals function: [MarkG](https://stackoverflow.com/questions/11832914/how-to-round-to-at-most-2-decimal-places-if-necessary)
 
-Not used in the project, but used for testing
+Used in the project, but not released with my own API access key *(built around exchangeratesapi.io)
 Mocki.io, fake JSON API: [mock.io](https://mocki.io/fake-json-api)
